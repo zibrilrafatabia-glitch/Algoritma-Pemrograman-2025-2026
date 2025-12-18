@@ -8,7 +8,7 @@ int main() {
     long saldo;
     string nim;
 
-    while(!valid){
+    while(!valid)
         cout << "Masukkan Nama: ";
         getline(cin, nama);
 

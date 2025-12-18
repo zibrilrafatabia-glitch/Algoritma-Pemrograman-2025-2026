@@ -1,6 +1,8 @@
+
+
 import java.util.Scanner;
 
-public class NimArray {
+public class nimarray {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

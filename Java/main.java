@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.put.print("Masukan angka kedua")
+        System.out.print("Masukan angka kedua")
         int.a = sc.nextInt();
 
         if (a > b)
