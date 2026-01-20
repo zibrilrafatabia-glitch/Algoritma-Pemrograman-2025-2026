@@ -1,9 +1,17 @@
+
 #include <iostream>
 using namespace std;
 
-int nilai = 9;
-int main() {
-    int nilai = 7;
-    printf("Nilai global: %d\n", ::nilai);
+// membuat variabel global
+int nilai = 10;
+
+int main()
+{
+    // membuat variabel lokal
+    // int nilai = 7;
+
+    // mencetak variabel
+    printf("Nilai: %d\n", nilai);
+
     return 0;
 }
