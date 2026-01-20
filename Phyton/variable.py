@@ -1,6 +1,6 @@
 print('---Belajar Variabel---') 
 char = 'A' 
-string = "Muhammad Encep" 
+string = "Muhammad Zibril" 
 a = 36 
 penghasilan1 = 1000000 
 nilai_uts = 82.25 

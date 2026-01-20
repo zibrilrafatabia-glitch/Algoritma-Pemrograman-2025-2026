@@ -4,7 +4,7 @@ Pekerjaan = "Machine learning & Data Science"
 
 def help(): 
     # ini variabel lokal 
-    nama = "Muhammad Fikri" 
+    nama = "Muhammad zibril" 
     Pekerjaan = "Machine learning & Data Science" 
     # mengakses variabel lokal 
     print ('Nama: %s' % nama) 

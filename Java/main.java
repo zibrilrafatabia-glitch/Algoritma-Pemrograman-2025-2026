@@ -1,7 +1,7 @@
 
 public class main {
-    public static void main(String[] args) {
-        String Nama = "John Doe";
+    public main(String[] args) {
+        String Nama = "Zibril Tafa";
         int Umur = 25;
         double Tinggi = 175.5;
         boolean aktif = true;

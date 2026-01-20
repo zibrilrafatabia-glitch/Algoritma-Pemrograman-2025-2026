@@ -11,7 +11,7 @@ function perkenalan($nama, $salam)
 // memanggil fungsi yang sudah dibuat 
 perkenalan("Muhammad", "Hi");
 echo "<hr>";
-$saya = "Muhammad Fikri";
+$saya = "Muhammad Zibril";
 $ucapanSalam = "Selamat pagi";
 // memanggilnya lagi 
 perkenalan($saya, $ucapanSalam);

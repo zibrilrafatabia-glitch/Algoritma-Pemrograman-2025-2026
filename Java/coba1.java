@@ -1,7 +1,7 @@
 public class coba1 {
     public static void main(String[] args) {
-        String nim = "I.2010162";
-        String nama = "Muhammad Fikri";
+        String nim = "I.2510056";
+        String nama = "Muhammad Zibril";
         String umur = "18 Tahun";
         String profesi = "Mahasiswa";
 

@@ -8,9 +8,9 @@ function perkenalan($nama, $salam = "Assalamualaikum")
     echo "Senang berkenalan dengan anda<br/>";
 }
 // memanggil fungsi yang sudah dibuat 
-perkenalan("Muhammad Fikri", "Hi");
+perkenalan("Muhammad Zibril", "Hi");
 echo "<hr>";
-$saya = "Muhammad Fikri";
+$saya = "Muhammad Zibril";
 $ucapanSalam = "Selamat pagi";
 // memanggilnya lagi tanpa mengisi parameter salam 
 perkenalan($saya);
